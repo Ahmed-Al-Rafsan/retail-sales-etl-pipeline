@@ -1,0 +1,47 @@
+[
+  {
+    "OrderID":10046,
+    "OrderDate":"2026-01-13",
+    "CustomerID":"C2044",
+    "ProductID":"P109",
+    "ProductCategory":"Personal Care",
+    "ProductName":"Hand Wash",
+    "Quantity":null,
+    "UnitPrice":"6.95",
+    "DiscountPct":0.15,
+    "ShippingState":"SA",
+    "PaymentMethod":"PayPal",
+    "SalesChannel":"In-Store",
+    "RejectReasons":"Missing or invalid Quantity"
+  },
+  {
+    "OrderID":10012,
+    "OrderDate":"2026-02-08",
+    "CustomerID":"C2002",
+    "ProductID":"P101",
+    "ProductCategory":"Vitamins",
+    "ProductName":"Vitamin C 500mg",
+    "Quantity":null,
+    "UnitPrice":"16.50",
+    "DiscountPct":0.0,
+    "ShippingState":"NSW",
+    "PaymentMethod":"Cash",
+    "SalesChannel":"In-Store",
+    "RejectReasons":"Missing or invalid Quantity"
+  },
+  {
+    "OrderID":10038,
+    "OrderDate":"2026-06-20",
+    "CustomerID":"C2018",
+    "ProductID":"P104",
+    "ProductCategory":"Skincare",
+    "ProductName":"Face Cleanser",
+    "Quantity":2.0,
+    "UnitPrice":"not available",
+    "DiscountPct":0.1,
+    "ShippingState":"SA",
+    "PaymentMethod":"Cash",
+    "SalesChannel":"Online",
+    "RejectReasons":"Missing or invalid UnitPrice"
+  }
+]

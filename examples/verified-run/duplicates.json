@@ -1,0 +1,30 @@
+[
+  {
+    "OrderID":10081,
+    "OrderDate":"2026-02-11",
+    "CustomerID":"C2062",
+    "ProductID":"P107",
+    "ProductCategory":"First Aid",
+    "ProductName":"Adhesive Bandages",
+    "Quantity":3.0,
+    "UnitPrice":"8.50",
+    "DiscountPct":0.15,
+    "ShippingState":"NSW",
+    "PaymentMethod":"PayPal",
+    "SalesChannel":"In-Store"
+  },
+  {
+    "OrderID":10035,
+    "OrderDate":"2026-06-27",
+    "CustomerID":"C2051",
+    "ProductID":"P105",
+    "ProductCategory":"Haircare",
+    "ProductName":"Shampoo 500ml",
+    "Quantity":2.0,
+    "UnitPrice":"14.99",
+    "DiscountPct":0.2,
+    "ShippingState":"NSW",
+    "PaymentMethod":"Card",
+    "SalesChannel":"In-Store"
+  }
+]

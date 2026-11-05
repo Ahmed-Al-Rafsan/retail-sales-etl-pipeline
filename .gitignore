@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+outputs/
+notebooks/retail_accepted_file.*
+notebooks/retail_rejected_file.*
+notebooks/pipeline.log
+.DS_Store

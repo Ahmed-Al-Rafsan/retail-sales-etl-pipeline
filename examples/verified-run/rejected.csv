@@ -1,0 +1,4 @@
+OrderID,OrderDate,CustomerID,ProductID,ProductCategory,ProductName,Quantity,UnitPrice,DiscountPct,ShippingState,PaymentMethod,SalesChannel,RejectReasons
+10046,2026-01-13,C2044,P109,Personal Care,Hand Wash,,6.95,0.15,SA,PayPal,In-Store,Missing or invalid Quantity
+10012,2026-02-08,C2002,P101,Vitamins,Vitamin C 500mg,,16.50,0.0,NSW,Cash,In-Store,Missing or invalid Quantity
+10038,2026-06-20,C2018,P104,Skincare,Face Cleanser,2.0,not available,0.1,SA,Cash,Online,Missing or invalid UnitPrice

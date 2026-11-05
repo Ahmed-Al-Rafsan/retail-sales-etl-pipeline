@@ -1,0 +1,12 @@
+{
+  "raw_rows": 58,
+  "duplicate_rows": 2,
+  "unique_rows": 56,
+  "accepted_rows": 53,
+  "rejected_rows": 3,
+  "source_sha256": "3f089deebab0aa65ad4a27190619d1ebda31727c0cb6c682ed2f96476b76cf9f",
+  "contract_version": "1.0",
+  "csv_json_counts_verified": true,
+  "accepted_missing_dates": 0,
+  "accepted_missing_discounts": 1
+}

@@ -1,0 +1,3 @@
+OrderID,OrderDate,CustomerID,ProductID,ProductCategory,ProductName,Quantity,UnitPrice,DiscountPct,ShippingState,PaymentMethod,SalesChannel
+10081,2026-02-11,C2062,P107,First Aid,Adhesive Bandages,3.0,8.50,0.15,NSW,PayPal,In-Store
+10035,2026-06-27,C2051,P105,Haircare,Shampoo 500ml,2.0,14.99,0.2,NSW,Card,In-Store

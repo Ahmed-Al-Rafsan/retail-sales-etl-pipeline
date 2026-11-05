@@ -1,0 +1,54 @@
+OrderID,OrderDate,CustomerID,ProductID,ProductCategory,ProductName,Quantity,UnitPrice,DiscountPct,ShippingState,PaymentMethod,SalesChannel
+10081,2026-02-11,C2062,P107,First Aid,Adhesive Bandages,3,8.5,0.15,NSW,PayPal,In-Store
+10049,2026-01-29,C2008,P108,First Aid,First Aid Kit,2,34.95,0.2,Unknown,PayPal,Online
+10044,2026-06-06,C2014,P109,Personal Care,Hand Wash,2,6.95,0.15,NSW,PayPal,In-Store
+10003,2026-03-30,C2063,P101,Vitamins,Vitamin C 500mg,3,16.5,0.0,WA,Cash,Online
+10026,2026-07-26,C2057,P103,Skincare,Moisturising Cream,7,22.0,0.15,WA,Cash,In-Store
+10007,2026-07-06,C2065,P101,Vitamins,Vitamin C 500mg,6,16.5,0.0,VIC,Cash,Online
+10036,2026-02-27,C2058,P110,Personal Care,Toothpaste,2,7.8,0.05,SA,PayPal,In-Store
+10004,2026-02-13,C2015,P110,Personal Care,Toothpaste,2,7.8,0.15,NT,Cash,In-Store
+10047,2026-02-06,C2031,P104,Skincare,Face Cleanser,1,18.75,0.05,SA,Card,In-Store
+10053,2026-07-06,C2010,P108,First Aid,First Aid Kit,1,34.95,0.2,SA,PayPal,In-Store
+10019,2026-05-17,C2068,P106,Haircare,Conditioner 500ml,1,15.99,0.1,SA,Cash,In-Store
+10014,2026-04-16,C2002,P111,Health Devices,Digital Thermometer,2,24.99,0.05,NT,PayPal,Online
+10025,2026-06-09,C2066,P103,Skincare,Moisturising Cream,4,22.0,0.05,NSW,Cash,In-Store
+10048,2026-02-11,C2052,P107,First Aid,Adhesive Bandages,6,8.5,0.05,ACT,PayPal,Online
+10001,2026-06-06,C2053,P103,Skincare,Moisturising Cream,7,22.0,0.2,QLD,PayPal,Online
+10023,2026-03-28,C2034,P106,Haircare,Conditioner 500ml,3,15.99,0.1,WA,Cash,In-Store
+10042,2026-02-27,C2061,P102,Vitamins,Multivitamin Tablets,2,28.95,0.1,ACT,Cash,In-Store
+10008,2026-01-13,C2058,P105,Haircare,Shampoo 500ml,7,14.99,0.2,ACT,PayPal,Online
+10040,2026-05-08,C2006,P104,Skincare,Face Cleanser,6,18.75,0.1,SA,PayPal,Online
+10022,2026-05-11,C2032,P101,Vitamins,Vitamin C 500mg,4,16.5,0.05,VIC,Cash,In-Store
+10050,2026-06-10,C2012,P111,Health Devices,Digital Thermometer,4,24.99,0.05,QLD,Card,Online
+10045,2026-07-07,C2066,P103,Skincare,Moisturising Cream,1,22.0,0.05,SA,PayPal,In-Store
+10037,2026-03-09,C2041,P112,Health Devices,Blood Pressure Monitor,6,89.0,0.2,NSW,Card,In-Store
+10024,2026-02-06,C2038,P108,First Aid,First Aid Kit,1,34.95,0.2,WA,Cash,In-Store
+10017,2026-01-25,C2005,P104,Skincare,Face Cleanser,3,18.75,0.2,TAS,Card,Online
+10035,2026-06-27,C2051,P105,Haircare,Shampoo 500ml,2,14.99,0.2,NSW,Card,In-Store
+10033,2026-07-19,C2054,P110,Personal Care,Toothpaste,2,7.8,0.1,QLD,Cash,Online
+10029,2026-07-23,C2022,P109,Personal Care,Hand Wash,2,6.95,0.1,ACT,Card,Online
+10034,2026-06-18,C2056,P107,First Aid,Adhesive Bandages,7,8.5,0.05,SA,Card,In-Store
+10027,2026-03-23,C2037,P107,First Aid,Adhesive Bandages,4,8.5,0.05,QLD,Cash,In-Store
+10052,2026-02-06,C2048,P112,Health Devices,Blood Pressure Monitor,6,89.0,0.2,ACT,PayPal,Online
+10054,2026-05-03,C2006,P102,Vitamins,Multivitamin Tablets,3,28.95,0.15,NT,Cash,Online
+10028,2026-03-01,C2019,P103,Skincare,Moisturising Cream,6,22.0,,SA,PayPal,Online
+10011,2026-05-02,C2017,P103,Skincare,Moisturising Cream,1,22.0,0.15,WA,Cash,In-Store
+10043,2026-04-17,C2019,P109,Personal Care,Hand Wash,5,6.95,0.2,QLD,Card,In-Store
+10013,2026-05-09,C2048,P101,Vitamins,Vitamin C 500mg,7,16.5,0.0,TAS,PayPal,In-Store
+10039,2026-05-24,C2049,P104,Skincare,Face Cleanser,4,18.75,0.1,VIC,PayPal,Online
+10032,2026-01-13,C2041,P108,First Aid,First Aid Kit,1,34.95,0.2,NT,PayPal,In-Store
+10010,2026-01-21,C2056,P112,Health Devices,Blood Pressure Monitor,1,89.0,0.0,SA,Card,Online
+10016,2026-04-01,C2053,P105,Haircare,Shampoo 500ml,4,14.99,0.15,WA,PayPal,In-Store
+10018,2026-06-11,C2067,P107,First Aid,Adhesive Bandages,5,8.5,0.2,WA,Cash,In-Store
+10009,2026-03-27,C2052,P105,Haircare,Shampoo 500ml,5,14.99,0.1,WA,PayPal,In-Store
+10041,2026-03-02,C2003,P101,Vitamins,Vitamin C 500mg,7,16.5,0.2,ACT,PayPal,In-Store
+10020,2026-01-13,C2032,P112,Health Devices,Blood Pressure Monitor,7,89.0,0.1,QLD,PayPal,In-Store
+10002,2026-02-15,C2041,P103,Skincare,Moisturising Cream,4,22.0,0.05,WA,Card,In-Store
+10031,2026-06-10,C2012,P103,Skincare,Moisturising Cream,2,22.0,0.1,VIC,Card,Online
+10006,2026-06-04,C2030,P107,First Aid,Adhesive Bandages,5,8.5,0.0,TAS,Card,Online
+10015,2026-06-22,C2040,P110,Personal Care,Toothpaste,3,7.8,0.2,QLD,PayPal,In-Store
+10021,2026-02-02,C2026,P104,Skincare,Face Cleanser,6,18.75,0.05,VIC,Cash,In-Store
+10055,2026-03-07,C2008,P103,Skincare,Moisturising Cream,2,22.0,0.15,ACT,PayPal,Online
+10051,2026-02-28,C2063,P112,Health Devices,Blood Pressure Monitor,6,89.0,0.15,WA,Cash,Online
+10030,2026-05-02,C2014,P104,Skincare,Face Cleanser,3,18.75,0.2,QLD,Card,In-Store
+10005,2026-01-14,C2007,P109,Personal Care,Hand Wash,7,6.95,0.15,ACT,Cash,In-Store
