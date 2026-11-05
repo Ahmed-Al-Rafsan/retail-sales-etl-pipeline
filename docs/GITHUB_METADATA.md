@@ -9,6 +9,6 @@ Website: https://ahmed-al-rafsan.github.io/
 
 Topics: `python`, `pandas`, `etl`, `data-engineering`, `data-quality`, `data-pipeline`, `portfolio-project`, `unit-testing`
 
-Pin this repository to the GitHub profile to make the project visible. A CI badge should only be added after GitHub Actions has actually run. The supplied workflow is not evidence of a successful hosted run.
+Pin this repository to the GitHub profile to make the project visible. The live CI badge links to GitHub Actions. The initial implementation workflow completed successfully.
 
 The older Data-to-AI repository also contains an auto-sales project. Preserve or separately migrate that work before deciding to delete the whole repository.

@@ -13,4 +13,4 @@ Validated on 6 November 2026 using Python 3.12.14, pandas 2.2.3 and NumPy 2.3.5.
 
 Tests cover schema failure, an empty source, malformed/fractional/non-finite quantities, non-finite price, multiple rejection reasons, retained unknown discount, shipping fallback, invalid-date behavior and repeatable exports.
 
-GitHub-hosted CI has not yet been run. No scale, latency or production benchmark was performed. Passing these tests demonstrates the documented cases; it does not prove every possible input is supported.
+GitHub Actions also passed for implementation commit `dc95288622a83595adbdae76066a5f104d2a0a63`: [verified workflow run](https://github.com/Ahmed-Al-Rafsan/retail-sales-etl-pipeline/actions/runs/42100397956). No scale, latency or production benchmark was performed. Passing these tests demonstrates the documented cases; it does not prove every possible input is supported.

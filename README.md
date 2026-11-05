@@ -3,6 +3,8 @@
 # Retail Sales ETL Pipeline
 ### Traceable data quality • Reproducible batch processing • Python
 
+[![Pipeline checks](https://github.com/Ahmed-Al-Rafsan/retail-sales-etl-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/Ahmed-Al-Rafsan/retail-sales-etl-pipeline/actions/workflows/ci.yml)
+
 **58 source rows → 2 duplicates → 53 accepted + 3 quarantined**
 
 [Quick start](#quick-start) · [Architecture](#architecture) · [Data contract](docs/DATA_CONTRACT.md) · [Validation evidence](docs/VALIDATION.md) · [Engineering decisions](docs/DECISIONS.md)
